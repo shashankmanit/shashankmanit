@@ -19,8 +19,13 @@ Here are some ideas to get you started:
 -->
 
 😄 **I am open to**:
-
 - collaboration opportunities (anytime & anywhere & any type).
+
+🧑‍🏫 **See my contribution on below**:
+
+- [Stack Overflow](https://stackoverflow.com/users/9427614/shashank)💻.
+- [Quora](https://www.quora.com/profile/Shashank-Mani-Tripathi-5)🖋.
+
 
 📫 **Contact me by**:
 - Email (shashankmani02@gmail.com)
