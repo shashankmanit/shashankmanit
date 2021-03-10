@@ -1,4 +1,4 @@
-# Hi there 👋, I am Shashank Mani Tripathi .
+## Hi there 👋, I am Shashank Mani Tripathi .
 
 <!--
 **shashankmanit/shashankmanit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
