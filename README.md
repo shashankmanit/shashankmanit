@@ -1,4 +1,4 @@
-# Hi there 👋, I am Shashank Mani Tripathi.
+# Hi there 👋, I am Shashank Mani Tripathi .
 
 <!--
 **shashankmanit/shashankmanit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+😄 **I am open to**:
+
+- collaboration opportunities (anytime & anywhere & any type).
 
 📫 **Contact me by**:
 - Email (shashankmani02@gmail.com)
