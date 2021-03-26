@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Machine Learning project.
+- 🔭 I’m currently working on Machine Learning project, building models that can extract value from data, discover patterns and trends, make predictions and deliver accurate results. I am currently building my portfolio through extensive machine learning projects that help make effective business decisions and provide valuable insights.
 - 🌱 I’m currently learning Deep Learning from [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI).
 - 👯 I’m looking to collaborate on AI community that may give the solution for real time problems.
 
