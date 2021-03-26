@@ -16,6 +16,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Skills: 
+- Programming languages / technique: Java, Python, GraphQL, Go | Frameworks- Spring Boot, Hibernate, Swagger API | Microservices, MLOps
+
+- Business / Data Analyst Skills: SQL | Tableau | Google Analytics
+
+- Machine Learning using Python: Algorithms - Regression, Classification, Naives Bayes, K-NN, Decision Trees, Clustering | Libraries - Numpy, Pandas, Scikit-learn, SpaCy, Matplotlib, Plotly, Keras
+
+- Professional Skills: Data Visualization, Machine Learning, Statistical Analysis & Forecasting, Optimisation, Project Management
+
+- Cloud: AWS- EC2, S3, Kendra | IBM Cloud- Cloud function, Cloud Object Storage (COS), SQL Cloud Query
+
+
 
 😄 **I am open to**:
 - collaboration opportunities (anytime & anywhere & any type).
@@ -32,7 +44,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="mailto:shashankmani02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>    
                                                                  
 <!--
-<a target="_blank" href="https://public.tableau.com/profile/shimonyagrawal#!/"><img src="https://img.shields.io/badge/-Tableau-1DA1F2?style=for-the-badge&logo=Tableau&logoColor=white"></img></a>
+<a target="_blank" href="https://public.tableau.com/profile/shashankmani#!/"><img src="https://img.shields.io/badge/-Tableau-1DA1F2?style=for-the-badge&logo=Tableau&logoColor=white"></img></a>
 -->
 <br>
 
