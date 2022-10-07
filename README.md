@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Skills: 
-- Programming languages / technique: Java, Python, GraphQL, Go | Frameworks- Spring Boot, Hibernate, Swagger API | Microservices, MLOps
+- **Programming languages / technique:** Java, Python, GraphQL, Go | Frameworks- Spring Boot, Hibernate, Swagger API | Microservices, MLOps
 
-- Business / Data Analyst Skills: SQL | Tableau | Google Analytics
+- **Business / Data Analyst Skills:** SQL | Tableau | Google Analytics
 
-- Machine Learning using Python: Algorithms - Regression, Classification, Naives Bayes, K-NN, Decision Trees, Clustering | Libraries - Numpy, Pandas, Scikit-learn, SpaCy, Matplotlib, Plotly, Keras
+- **Machine Learning using Python:** Algorithms - Regression, Classification, Naives Bayes, K-NN, Decision Trees, Clustering | Libraries - Numpy, Pandas, Scikit-learn, SpaCy, Matplotlib, Plotly, Keras
 
-- Professional Skills: Data Visualization, Machine Learning, Statistical Analysis & Forecasting, Optimisation, Project Management
+- **Professional Skills:** Data Visualization, Machine Learning, Statistical Analysis & Forecasting, Optimisation, Project Management
 
-- Cloud: AWS- EC2, S3, Kendra | IBM Cloud- Cloud function, Cloud Object Storage (COS), SQL Cloud Query
+- **Cloud:** AWS- EC2, S3, Kendra | IBM Cloud- Cloud function, Cloud Object Storage (COS), SQL Cloud Query
 
 
 
